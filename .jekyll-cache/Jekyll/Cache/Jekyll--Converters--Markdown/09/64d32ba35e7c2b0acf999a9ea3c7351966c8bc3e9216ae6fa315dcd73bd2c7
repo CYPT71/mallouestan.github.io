@@ -1,0 +1,48 @@
+I"�<p>Bien sûr, voici la correction de votre texte :</p>
+
+<hr />
+
+<h2 id="contexte">Contexte</h2>
+
+<p>Le Mallouestan, en cherchant un outil collaboratif, a défini les différents besoins suivants :</p>
+
+<ul>
+  <li>Travailler à plusieurs sur plusieurs fichiers</li>
+  <li>Avoir un historique des modifications</li>
+  <li>Pouvoir proposer plusieurs versions de ses ressources</li>
+  <li>Permettre à des personnes extérieures de proposer d’autres versions de ces ressources</li>
+  <li>Une solution permettant de publier ses ressources en ligne</li>
+</ul>
+
+<p>Nous avons retenu la solution GitHub qui répond à ces besoins gratuitement, malgré ses défauts, notamment le fait qu’elle est peu connue par les personnes que nous souhaitons encourager à participer et collaborer avec nous.</p>
+
+<h2 id="si-vous-souhaitez-contribuer">Si vous souhaitez contribuer</h2>
+
+<p>Peut-être avez-vous des questions sur notre charte, vu une faute d’orthographe ou une formulation problématique, ou vous voulez peut-être ajouter des points sur notre charte ou l’un de nos documents ; dans tous les cas, <strong>n’hésitez pas</strong>. Si vous souhaitez contribuer, vous pouvez le faire de deux manières. Dans ce guide, nous nous concentrons sur la première, qui est simple et rapide, vous permettant de vous exprimer facilement et de faire valoir vos avis.</p>
+
+<h3 id="étape-1--créer-un-compte-sur-github">Étape 1 : Créer un compte sur GitHub</h3>
+
+<p>Il vous suffit de créer un compte sur GitHub, normalement au lien suivant : <a href="https://github.com/join">Rejoindre GitHub</a>.</p>
+
+<h3 id="étape-2--aller-sur-lun-de-nos-repositories">Étape 2 : Aller sur l’un de nos “repositories”</h3>
+
+<p>Un “repository” (référentiel en français) est le terme que GitHub utilise pour regrouper un ensemble de fichiers. Vous pouvez trouver tous nos “repositories” ou référentiels à l’adresse suivante : <a href="https://github.com/orgs/Association-Mallouestan/repositories">Tous nos référentiels</a></p>
+
+<h3 id="étape-3--créer-une-issue-sur-un-repository">Étape 3 : Créer une “issue” sur un repository</h3>
+
+<p>Une “issue” (littéralement problème) est le nom que GitHub utilise pour un point à soulever. Ce genre de ticket a un titre et une description permettant d’expliquer le problème ou le sujet souhaité. Une fois sur le référentiel (étape 2), naviguez vers l’onglet “Issues” et cliquez sur le bouton vert “New issue” en haut à droite. Remplissez les champs et appuyez sur le bouton vert en bas du formulaire.</p>
+
+<p><img src="../images/ressources/newissue.jpg" alt="Fil de discussion issue" /></p>
+
+<h3 id="étape-4--suivez-et-échangez-avec-nous">Étape 4 : Suivez et échangez avec nous</h3>
+
+<p>C’est tout, vous avez contribué, et nous vous en remercions. C’est grâce aux critiques et à la collaboration que nous sommes arrivés là. Vous pouvez voir nos réponses, modifications ou remarques sur l’ “issue” que vous avez créé.</p>
+
+<p><img src="../images/ressources/fildechat_github.JPG" alt="Fil de discussion issue" /></p>
+
+<blockquote>
+  <p>Vous pouvez également participer en donnant votre avis sur les autres issues et fils de discussions créés.</p>
+</blockquote>
+
+<p>La liste des “issues” peut être trouvée ici : <a href="https://github.com/Association-Mallouestan/docs.mallouestan.github.io/issues">Liste des issues</a> pour le référentiel des documents collaboratifs.</p>
+:ET
