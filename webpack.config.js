@@ -8,6 +8,7 @@ module.exports = {
         scripts: './_tech/assets/js/scripts.js',
         notes: './_tech/assets/js/notes.js',
         notesApp: './_tech/assets/js/notes-app.js',
+        exportJson: './_tech/assets/js/export-json.js',
         main: './_tech/assets/js/main.js',
         sw: { import: "./_tech/assets/js/sw.js", filename: '../../sw.js' }
     },
